@@ -5,3 +5,4 @@
 
 ## Algorithms + explanation included: 
 1. Find if String has repeated Characters. [See here](https://github.com/SerxhioGugo/Algo-Practice/blob/master/UniqueCharsInString.playground/Contents.swift)
+2. Binary Search [See here](https://github.com/SerxhioGugo/Algo-Practice/blob/master/BinarySearch.playground/Contents.swift)
